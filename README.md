@@ -8,8 +8,8 @@ Projeto desenvoldido para a prova de flutter
 
 autenticação em base do MockAPI
 
-![Tela de login](imagens/login.jpg)
-![Tela home](imagens/home.jpg)
+![Tela de login](imagens/login.jpg) ![Tela home](imagens/home.jpg)
+
 
 ## Getting Started
 
